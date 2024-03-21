@@ -47,7 +47,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-zimkus/live-video.git
+    git clone https://github.com/zimkus/live-video.git
     ```
 2. Install NPM packages
     ```sh
