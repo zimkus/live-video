@@ -1,0 +1,25 @@
+header {
+    width: 100%;
+    display: inline-block;
+    background-color: yellow;
+}
+ header > img {
+    float: left;
+    height: 50px;
+} 
+header > nav {
+    float: right;
+}
+header a {
+    float: left;
+    margin-left: 20px;
+    font-size: 20px;
+    line-height: 20px;
+    text-decoration: none;
+}
+header a:last-child {
+    margin-right: 0;
+}
+header a:hover {
+    background-color: red;
+}
